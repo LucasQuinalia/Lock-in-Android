@@ -1,9 +1,9 @@
-package com.example.lockin
+package com.example.lockin.activity
 
-import android.os.Build
 import android.os.Bundle
 import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
+import com.example.lockin.R
 
 
 class home : AppCompatActivity() {
